@@ -49,31 +49,6 @@ I'm a passionate **Cybersecurity Graduate Student at NYU**, blending hands-on ex
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhitad8&show_icons=true&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=nikhitad8&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
-</p>
-
----
-
-### 📊 Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhitad8&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhitad8&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ### 📬 Let's Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nikhitadhenuvakonda)
