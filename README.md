@@ -16,7 +16,7 @@
 
 I'm a passionate **Cybersecurity Graduate Student at NYU**, blending hands-on experience in:
 - 🔐 Application Security (SAST/DAST, OWASP, secure SDLC)
-- 🛡️ Threat Detection & SIEM Engineering (Splunk, Suricata, Arctic Wolf)
+- 🛡️ Threat Detection & SIEM Engineering (Splunk, Arctic Wolf)
 - 🚀 DevSecOps (CI/CD security pipelines, Git, Jenkins)
 - ✅ Compliance (SOC 2, NIST CSF, CIS v8 frameworks)
 
